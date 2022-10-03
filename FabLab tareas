@@ -1,2 +1,13 @@
 # Llavero 3D
 Programas, Ilustrator y Rhinoceros
+
+
+Ardiuno
+Instalar programa desde https://www.arduino.cc/en/donate/
+Elejir placa y puerto en Arduino
+desde este enlace descargamos driver y librerías https://fablabbcn.github.io/digifab/modulo_4/arduino/#enlaces-del-programa
+
+Herramiens / Placa Aurduino / ESP32 / Instalar
+
+Primero seleccionar la placa que vamos a usar
+y luego señleccionar el puerto
